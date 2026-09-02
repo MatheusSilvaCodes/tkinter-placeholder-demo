@@ -10,7 +10,7 @@ Este projeto é uma demonstração prática de manipulação de eventos e constr
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3.14.7**
 - **Tkinter** (Biblioteca padrão do Python para GUI)
 
 ## 🔧 Como Executar o Projeto
